@@ -1,0 +1,4 @@
+lower_color = np.array([180,186,110])
+upper_color = np.array([230,230,230])
+
+peri = 0.03
